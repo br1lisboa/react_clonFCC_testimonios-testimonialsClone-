@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_clonFCC_testimonios/static/css/main.9536c320.css",
-    "main.js": "/react_clonFCC_testimonios/static/js/main.61f4eddc.js",
-    "static/media/testimonio-joker.png": "/react_clonFCC_testimonios/static/media/testimonio-joker.4c98c020ed51c8d154a5.png",
-    "static/media/testimonio-mr.png": "/react_clonFCC_testimonios/static/media/testimonio-mr.656cee21f5c2ad83b6d0.png",
-    "static/media/testimonio-brad.png": "/react_clonFCC_testimonios/static/media/testimonio-brad.7a5245c3fdcb55a0364b.png",
-    "index.html": "/react_clonFCC_testimonios/index.html",
-    "main.9536c320.css.map": "/react_clonFCC_testimonios/static/css/main.9536c320.css.map",
-    "main.61f4eddc.js.map": "/react_clonFCC_testimonios/static/js/main.61f4eddc.js.map"
+    "main.css": "/react_clonFCC_testimonios-testimonialsClone-/static/css/main.9536c320.css",
+    "main.js": "/react_clonFCC_testimonios-testimonialsClone-/static/js/main.8d6884a6.js",
+    "static/media/testimonio-joker.png": "/react_clonFCC_testimonios-testimonialsClone-/static/media/testimonio-joker.4c98c020ed51c8d154a5.png",
+    "static/media/testimonio-mr.png": "/react_clonFCC_testimonios-testimonialsClone-/static/media/testimonio-mr.656cee21f5c2ad83b6d0.png",
+    "static/media/testimonio-brad.png": "/react_clonFCC_testimonios-testimonialsClone-/static/media/testimonio-brad.7a5245c3fdcb55a0364b.png",
+    "index.html": "/react_clonFCC_testimonios-testimonialsClone-/index.html",
+    "main.9536c320.css.map": "/react_clonFCC_testimonios-testimonialsClone-/static/css/main.9536c320.css.map",
+    "main.8d6884a6.js.map": "/react_clonFCC_testimonios-testimonialsClone-/static/js/main.8d6884a6.js.map"
   },
   "entrypoints": [
     "static/css/main.9536c320.css",
-    "static/js/main.61f4eddc.js"
+    "static/js/main.8d6884a6.js"
   ]
 }
